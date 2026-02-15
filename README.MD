@@ -1,22 +1,22 @@
 ## Two Sum in Go 
 ### A simple Go implementation of the Two Sum problem .
 
-### Clone the repository
+#### Clone the repository
 ```bash
 git clone https://github.com/Ho3einTahan/2sum-array
 cd 2sum-array
 ```
 
-### Run the program
+#### Run the program
 ```bash
 go run main.go
 ```
 
-### Time Complexity
+#### Time Complexity
 - Time: O(n²)
 - Space: O(1)
 
-##### Simple Code :
+#### Simple Code :
 ```go
 package main
 
@@ -46,5 +46,4 @@ func main() {
 ```
 
 ### Author
-
 #### Developed by Ho3ein Tahan
