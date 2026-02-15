@@ -2,15 +2,13 @@
 ### A simple Go implementation of the Two Sum problem .
 
 ### Clone the repository
-bash
-```
+```bash
 git clone https://github.com/Ho3einTahan/2sum-array
 cd 2sum-array
 ```
 
 ### Run the program
-bash
-```
+```bash
 go run main.go
 ```
 
@@ -19,8 +17,7 @@ go run main.go
 - Space: O(1)
 
 ##### Simple Code :
-go
-```
+```go
 package main
 
 import "fmt"
